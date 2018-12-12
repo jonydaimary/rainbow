@@ -19,7 +19,7 @@
     ],
     "messageresponse": {
         "missingperm": "I need permission 'MANAGE_ROLES' to execute this action.",
-        "success": "WOOHOO LETS RAINBOW!!!",
+        "success": "Hey its me",
         "rainbowstop": "Ok ranbow is over",
         "rolenotfound": "The requested role you typed was not found"
     }

@@ -1,7 +1,7 @@
 {
-    "token": "NTIyMDcwMzA3NjM3NDI4MjM3.DvLqcg.LOgbBxu_uJOarDJMSvJxvhg-FWY",
+    "token": "NTk5OTUwNDk1MjcxODc4NjU4.XSspeQ.ho1EuPDqgjdNQ5gnw_Vhl9QQWUI",
     "prefix": "!",
-    "rainbowdelay": 1000,
+    "rainbowdelay": 500,
     "rainbowcommand": "rainbow",
     "rainbowstop": "stop",
     "rainbowrole": [
@@ -9,13 +9,13 @@
         "#4B0082",
         "#0000FF",
         "#00FF00",
-        "#FFFF00",
+        "#19c1da",
         "#FF7F00",
         "#FF0000",
-        "#586e75",
+        "#c2100d",
         "#859900",
-        "#2aa198",
-        "#b58900"
+        "#d130df",
+        "#090808"
     ],
     "messageresponse": {
         "missingperm": "I need permission 'MANAGE_ROLES' to execute this action.",
